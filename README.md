@@ -16,3 +16,7 @@ My own experience with Digital Media Art has made me increasingly aware of this.
 I do not think every designer needs to become a professional software engineer. In an AI-assisted future, it may be more important to understand how to break down a problem, ask the right questions, evaluate generated code, and modify it when necessary. AI can make programming more accessible, but this also makes understanding programming more valuable.
 
 We are not learning programming because machines cannot write code. We are learning programming because machines can write code, and we need to understand, question, direct, and creatively use what they produce.
+
+## References
+
+Beattie, D. (2025). *The art of code* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
