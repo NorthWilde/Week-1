@@ -3,3 +3,5 @@ As a designer, I used to think of programming as something mainly for programmer
 
 After watching Dylan Beattie's The Art of Code, I began to think about programming differently. One of the ideas that stood out to me is that code is not simply a technical instruction for a computer. It can also be a creative medium. Beattie's presentation shows how programming can be used to create visual forms, patterns, animation, music, and other experiences. This made me realise that the relationship between design and programming is much closer than I had previously thought. Programming is not only about making software work; it can also be a way of expressing ideas.
 
+
+
