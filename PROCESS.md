@@ -5,6 +5,8 @@ Before developing my reflection, I watched Dylan Beattie's The Art of Code. The 
 
 I used AI mainly for brainstorming, organising my ideas, and improving my English expression. I asked AI to suggest possible arguments and essay structures, and then reviewed the suggestions myself. I kept the ideas about programming as a creative medium, programming helping designers understand interactive systems, and AI being a tool that can assist rather than replace designers.
 
+I kept the ideas about programming as a creative medium, programming helping designers understand interactive systems, and AI being a tool that can assist rather than replace designers.
+
 I rejected some parts of the AI-generated writing because they were too long, overly descriptive, or used expressions that did not fit my background or the way I normally write. Some sentences also sounded too general and did not feel connected to Digital Media Art. Instead of keeping these expressions, I simplified them and replaced them with ideas from my own experience.
 
 I added my own experiences and changed the examples so that it reflected my perspective as a Digital Media Art student, These examples helped make the reflection more personal and connected the discussion of programming and AI to my actual design practice.
